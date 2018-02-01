@@ -1,0 +1,286 @@
+Battery History (0% used, 1404 used of 256KB, 36 strings using 1752):
+                    0 (9) RESET:TIME: 2017-10-24-07-22-27
+                    0 (1) 050 status=charging health=good plug=ac temp=0 volt=0 +running +wake_lock +sensor +mobile_radio +screen +plugged data_conn=umts phone_signal_strength=good +charging
+                    0 (2) 050 proc=1000:"WebViewLoader-x86"
+                    0 (2) 050 proc=u0a2:"android.process.acore"
+                    0 (2) 050 proc=u0a30:"com.android.exchange"
+                    0 (2) 050 proc=u0a36:"com.android.music"
+                    0 (2) 050 proc=u0a46:"com.android.messaging"
+                    0 (2) 050 proc=u0a24:"com.android.deskclock"
+                    0 (2) 050 proc=u0a28:"com.android.email"
+                    0 (2) 050 proc=u0a20:"com.android.calendar"
+                    0 (2) 050 proc=1000:"com.android.settings"
+                    0 (2) 050 proc=1000:"WebViewLoader-x86_64"
+                    0 (2) 050 proc=u0a6:"android.process.media"
+                    0 (2) 050 proc=u0a33:"com.android.inputmethod.latin"
+                    0 (2) 050 proc=u0a14:"com.android.systemui"
+                    0 (2) 050 proc=1001:"com.android.phone"
+                    0 (2) 050 proc=u0a1:"com.android.providers.calendar"
+                    0 (2) 050 proc=u0a8:"com.android.launcher3"
+                    0 (2) 050 top=u0a8:"com.android.launcher3"
+                    0 (2) 050 user=0:"0"
+                    0 (2) 050 userfg=0:"0"
+                +10ms (2) 050 stats=0:"dump"
+            +10s080ms (1) 050 -mobile_radio
+            +12s860ms (2) 050 +wake_lock_in=1001:"RILJ"
+            +12s860ms (2) 050 -wake_lock_in=1001:"RILJ"
+            +17s610ms (3) 050 brightness=medium +wake_lock_in=1013:"AudioMix"
+            +17s740ms (2) 050 +wake_lock_in=u0a36:"*launch*"
+            +17s740ms (2) 050 -top=u0a8:"com.android.launcher3"
+            +17s740ms (2) 050 +top=u0a36:"com.android.music"
+            +17s760ms (2) 050 -wake_lock_in=1013:"AudioMix"
+            +17s760ms (2) 050 +wake_lock_in=1000:"AudioMix"
+            +17s880ms (2) 050 -wake_lock_in=1000:"AudioMix"
+            +17s880ms (2) 050 +wake_lock_in=1013:"AudioMix"
+            +20s860ms (2) 050 -wake_lock_in=1013:"AudioMix"
+            +24s210ms (2) 050 -wake_lock_in=u0a36:"*launch*"
+            +31s360ms (2) 050 +wake_lock_in=u0a36:"*launch*"
+            +31s380ms (2) 050 +wake_lock_in=u0a8:"*launch*"
+            +31s380ms (2) 050 -wake_lock_in=u0a36:"*launch*"
+            +31s380ms (2) 050 -top=u0a36:"com.android.music"
+            +31s380ms (2) 050 +top=u0a8:"com.android.launcher3"
+            +32s080ms (2) 050 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +32s080ms (2) 050 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +32s680ms (2) 050 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+            +32s680ms (2) 050 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+            +32s870ms (2) 050 +wake_lock_in=1001:"RILJ"
+            +32s870ms (2) 050 -wake_lock_in=1001:"RILJ"
+            +34s840ms (2) 050 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +34s840ms (2) 050 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+            +38s400ms (2) 050 +wake_lock_in=u0a8:"*vibrator*"
+            +38s480ms (2) 050 -wake_lock_in=u0a8:"*vibrator*"
+            +38s900ms (2) 050 +wake_lock_in=1013:"AudioMix"
+            +38s920ms (2) 050 -wake_lock_in=1013:"AudioMix"
+            +38s920ms (2) 050 +wake_lock_in=1000:"AudioMix"
+            +39s040ms (2) 050 -wake_lock_in=1000:"AudioMix"
+            +39s040ms (2) 050 +wake_lock_in=1013:"AudioMix"
+            +40s370ms (2) 050 -wake_lock_in=u0a8:"*launch*"
+            +42s010ms (2) 050 -wake_lock_in=1013:"AudioMix"
+            +45s990ms (2) 050 +wake_lock_in=1013:"AudioMix"
+            +45s990ms (2) 050 +wake_lock_in=u0a28:"*launch*"
+            +46s000ms (2) 050 -top=u0a8:"com.android.launcher3"
+            +46s000ms (2) 050 +top=u0a28:"com.android.email"
+            +46s010ms (2) 050 -wake_lock_in=1013:"AudioMix"
+            +46s010ms (2) 050 +wake_lock_in=1000:"AudioMix"
+            +46s130ms (2) 050 -wake_lock_in=1000:"AudioMix"
+            +46s130ms (2) 050 +wake_lock_in=1013:"AudioMix"
+            +49s100ms (2) 050 -wake_lock_in=1013:"AudioMix"
+            +52s880ms (2) 050 +wake_lock_in=1001:"RILJ"
+            +52s880ms (2) 050 -wake_lock_in=1001:"RILJ"
+            +55s680ms (2) 050 -wake_lock_in=u0a28:"*launch*"
+            +59s100ms (2) 050 +wake_lock_in=u0a28:"*launch*"
+            +59s620ms (2) 050 +wake_lock_in=u0a8:"*launch*"
+            +59s620ms (2) 050 -wake_lock_in=u0a28:"*launch*"
+            +59s620ms (2) 050 -top=u0a28:"com.android.email"
+            +59s620ms (2) 050 +top=u0a8:"com.android.launcher3"
+          +1m02s340ms (2) 050 -wake_lock_in=u0a8:"*launch*"
+          +1m12s890ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +1m12s890ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +1m32s080ms (2) 050 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m32s080ms (2) 050 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m32s140ms (2) 050 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m32s140ms (2) 050 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +1m32s690ms (2) 050 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +1m32s690ms (2) 050 +wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +1m32s690ms (2) 050 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +1m32s690ms (2) 050 -wake_lock_in=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +1m32s900ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +1m32s900ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +1m49s280ms (2) 050 +wake_lock_in=1001:"GsmInboundSmsHandler"
+          +1m49s300ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +1m49s300ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +1m49s310ms (2) 050 +tmpwhitelist=u0a46:"sms-app"
+          +1m49s320ms (2) 050 +wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +1m49s320ms (2) 050 +tmpwhitelist=1001:"sms-broadcast"
+          +1m49s490ms (2) 050 +wake_lock_in=u0a14:"RingtonePlayer"
+          +1m49s490ms (2) 050 +wake_lock_in=u0a46:"*vibrator*"
+          +1m49s530ms (2) 050 -wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +1m49s540ms (3) 050 +audio -wake_lock_in=u0a14:"RingtonePlayer"
+          +1m49s550ms (2) 050 +wake_lock_in=1013:"AudioMix"
+          +1m49s570ms (2) 050 -wake_lock_in=1013:"AudioMix"
+          +1m49s570ms (2) 050 +wake_lock_in=u0a14:"AudioMix"
+          +1m50s480ms (2) 050 -wake_lock_in=u0a46:"*vibrator*"
+          +1m51s320ms (2) 050 -wake_lock_in=u0a14:"AudioMix"
+          +1m51s320ms (3) 050 brightness=dark +wake_lock_in=1013:"AudioMix"
+          +1m52s350ms (2) 050 -wake_lock_in=1001:"GsmInboundSmsHandler"
+          +1m52s910ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +1m52s910ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +1m54s290ms (2) 050 -wake_lock_in=1013:"AudioMix"
+          +2m06s100ms (3) 050 brightness=medium +wake_lock_in=u0a14:"RingtonePlayer"
+          +2m06s110ms (3) 050 -audio +wake_lock_in=1013:"AudioMix"
+          +2m06s120ms (2) 050 -wake_lock_in=u0a14:"RingtonePlayer"
+          +2m09s130ms (2) 050 -wake_lock_in=1013:"AudioMix"
+          +2m09s410ms (2) 050 -tmpwhitelist=u0a46:"sms-app"
+          +2m09s410ms (2) 050 -tmpwhitelist=1001:"sms-broadcast"
+          +2m12s920ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +2m12s920ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +2m32s080ms (2) 050 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m32s080ms (2) 050 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m32s700ms (2) 050 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +2m32s700ms (2) 050 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +2m32s930ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +2m32s930ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +2m36s170ms (2) 050 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m36s170ms (2) 050 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +2m47s060ms (2) 050 +wake_lock_in=1013:"AudioMix"
+          +2m47s060ms (2) 050 +wake_lock_in=u0a46:"*launch*"
+          +2m47s060ms (2) 050 -top=u0a8:"com.android.launcher3"
+          +2m47s060ms (2) 050 +top=u0a46:"com.android.messaging"
+          +2m47s070ms (2) 050 -wake_lock_in=1013:"AudioMix"
+          +2m47s070ms (2) 050 +wake_lock_in=1000:"AudioMix"
+          +2m47s080ms (2) 050 +wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +2m47s110ms (2) 050 +wake_lock_in=u0a46:"bugle_background_worker_wakelock"
+          +2m47s110ms (2) 050 -wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +2m47s190ms (2) 050 -wake_lock_in=1000:"AudioMix"
+          +2m47s190ms (2) 050 +wake_lock_in=1013:"AudioMix"
+          +2m50s190ms (2) 050 -wake_lock_in=1013:"AudioMix"
+          +2m50s360ms (2) 050 +wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +2m50s360ms (2) 050 -wake_lock_in=u0a46:"bugle_background_worker_wakelock"
+          +2m51s380ms (2) 050 -wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +2m52s940ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +2m52s940ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +2m53s420ms (2) 050 -wake_lock_in=u0a46:"*launch*"
+          +2m58s350ms (2) 050 +wake_lock_in=u0a46:"*launch*"
+          +2m58s360ms (2) 050 +wake_lock_in=1013:"AudioMix"
+          +2m58s380ms (2) 050 -wake_lock_in=1013:"AudioMix"
+          +2m58s380ms (2) 050 +wake_lock_in=1000:"AudioMix"
+          +2m58s570ms (2) 050 +wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +2m58s580ms (2) 050 -wake_lock_in=1000:"AudioMix"
+          +2m58s580ms (2) 050 +wake_lock_in=1013:"AudioMix"
+          +2m58s940ms (2) 050 +wake_lock_in=u0a46:"bugle_background_worker_wakelock"
+          +2m59s000ms (2) 050 -wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +2m59s170ms (2) 050 +wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +2m59s240ms (2) 050 -wake_lock_in=u0a46:"bugle_background_worker_wakelock"
+          +3m00s230ms (2) 050 -wake_lock_in=u0a46:"bugle_datamodel_service_wakelock"
+          +3m01s480ms (2) 050 -wake_lock_in=1013:"AudioMix"
+          +3m08s360ms (2) 050 -wake_lock_in=u0a46:"*launch*"
+          +3m12s950ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +3m12s950ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +3m32s080ms (2) 050 +alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m32s080ms (2) 050 +wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m32s710ms (2) 050 +alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +3m32s710ms (2) 050 -alarm=1001:"*walarm*:com.android.internal.telephony.data-stall"
+          +3m32s960ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +3m32s960ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +3m34s410ms (2) 050 -alarm=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m34s410ms (2) 050 -wake_lock_in=1000:"*alarm*:android.intent.action.TIME_TICK"
+          +3m52s380ms (3) 050 brightness=dark +wake_lock_in=1001:"RILJ"
+          +3m52s970ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +4m12s980ms (2) 050 +wake_lock_in=1001:"RILJ"
+          +4m12s980ms (2) 050 -wake_lock_in=1001:"RILJ"
+          +4m31s430ms (2) 050 +mobile_radio stats=0:"dump"
+
+Per-PID Stats:
+  PID 0 wake time: +680ms
+  PID 1360 wake time: +9s240ms
+  PID 1360 wake time: 0
+  PID 1686 wake time: +3s70ms
+  PID 0 wake time: +20s920ms
+  PID 1360 wake time: +11s710ms
+  PID 0 wake time: +1s750ms
+  PID 1453 wake time: +70ms
+  PID 1360 wake time: +10s210ms
+  PID 1360 wake time: +6s490ms
+  PID 1360 wake time: +17s360ms
+  PID 1963 wake time: +6s170ms
+
+Daily stats:
+  Current start time: 2017-10-24-06-14-47
+  Next min deadline: 2017-10-25-01-00-00
+  Next max deadline: 2017-10-24-03-00-00
+  Daily from 2017-10-11-08-57-08 to 2017-10-20-07-20-42:
+    Package changes:
+      Update com.zyxr.home.toulfhome vers=340
+      Update io.appium.settings vers=1
+      Update io.appium.unlock vers=1
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Time on battery: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Time on battery screen off: 0ms (0.0%) realtime, 0ms (0.0%) uptime
+  Total run time: 4m 31s 480ms realtime, 4m 31s 480ms uptime
+  Start clock time: 2017-10-24-07-22-27
+  Screen on: 0ms (--%) 0x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+  Mobile total received: 0B, sent: 0B (packets received 0, sent 0)
+  Phone signal levels: (no activity)
+  Signal scanning time: 0ms
+  Radio types: (no activity)
+  Mobile radio active time: 0ms (--%) 0x
+  Wi-Fi total received: 0B, sent: 0B (packets received 0, sent 0)
+  Wifi on: 0ms (--%), Wifi running: 0ms (--%)
+  Wifi states: (no activity)
+  Wifi supplicant states: (no activity)
+  Wifi signal levels: (no activity)
+  WiFi Idle time: 0ms (--%)
+  WiFi Rx time:   0ms (--%)
+  WiFi Tx time:   0ms (--%)
+  WiFi Power drain: 0mAh
+  Bluetooth Idle time: 0ms (--%)
+  Bluetooth Rx time:   0ms (--%)
+  Bluetooth Tx time:   0ms (--%)
+  Bluetooth Power drain: 0mAh
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+
+  1000:
+    Wake lock *alarm* realtime
+    Wake lock AudioMix realtime
+    Sensor 0: (not used)
+  1001:
+    Wake lock *alarm* realtime
+    Wake lock RILJ realtime
+    Wake lock GsmInboundSmsHandler realtime
+  1013:
+    Wake lock AudioMix realtime
+  u0a1:
+    (nothing executed)
+  u0a2:
+    (nothing executed)
+  u0a5:
+    (nothing executed)
+  u0a6:
+    (nothing executed)
+  u0a7:
+    (nothing executed)
+  u0a8:
+    Wake lock *vibrator* realtime
+    Wake lock *launch* realtime
+  u0a9:
+    (nothing executed)
+  u0a14:
+    Wake lock RingtonePlayer realtime
+    Wake lock AudioMix realtime
+  u0a20:
+    (nothing executed)
+  u0a24:
+    (nothing executed)
+  u0a28:
+    Wake lock *launch* realtime
+  u0a30:
+    (nothing executed)
+  u0a33:
+    Apk com.android.inputmethod.latin:
+      Service com.android.inputmethod.latin.spellcheck.AndroidSpellCheckerService:
+        Created for: 0ms uptime
+        Starts: 0, launches: 1
+  u0a36:
+    Wake lock *launch* realtime
+    Apk com.android.music:
+      (nothing executed)
+  u0a41:
+    (nothing executed)
+  u0a43:
+    (nothing executed)
+  u0a46:
+    Wake lock *vibrator* realtime
+    Wake lock *launch* realtime
+    Wake lock bugle_background_worker_wakelock realtime
+    Wake lock bugle_datamodel_service_wakelock realtime
+    Apk com.android.messaging:
+      (nothing executed)
+
